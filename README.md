@@ -1,7 +1,7 @@
 # Green Manufacturing: Digitalização e Automação de Processos Documentais
 
 <p align="center">
-<a href="https://www.univesp.br/"><img src="https://www.univesp.br/static/images/logoUnivesp2020.png" alt="UNIVESP - Universidade Virtual do Estado de São Paulo" border="0" width=40%></a>
+<a href="https://www.univesp.br/"><img src="https://univesp.br/static/img/logo-univesp.png" alt="UNIVESP - Universidade Virtual do Estado de São Paulo" border="0" width="300"></a>
 </p>
 
 ## 👥 Integrantes
