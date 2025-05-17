@@ -1,1 +1,85 @@
-/* Arquivo CSS principal */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #000;
+    color: #00aaff;
+    margin: 0;
+    padding: 0;
+}
+
+.container, .login-container {
+    width: 90%;
+    max-width: 100%;
+    margin: 20px auto;
+    background: #111;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #00aaff;
+}
+
+h2, h3 {
+    text-align: center;
+    color: #00aaff;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input, button, select {
+    margin: 10px 0;
+    padding: 10px;
+    border: none;
+    font-size: 12px; 
+    border-radius: 5px;
+}
+
+input, select {
+    background: #222;
+    font-size: 12px; 
+    color: #fff;
+}
+
+button {
+    background: #00aaff;
+    color: #000;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0088cc;
+}
+
+/* Estilo para as tabelas */
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    background-color: #222;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #00aaff;
+}
+
+th {
+    background-color: #00aaff;
+    color: #fff; /* Texto branco no cabeçalho */
+}
+
+td {
+    color: #fff; /* Texto branco nas células da tabela */
+}
+
+tbody tr:nth-child(even) {
+    background-color: #333;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #444;
+}
+
+
