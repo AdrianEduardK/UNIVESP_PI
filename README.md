@@ -5,7 +5,7 @@
 </p>
 
 ## 👥 Integrantes
-- [Amanda Fragnan de Oliveira](https://www.linkedin.com/in/amanda-fragnan-b61537255/)
+- Amanda Fragnan de Oliveira
 - André Cicero Nunes Silva
 - Juares da Silva de Jesus
 - Riane Miranda de Franca
