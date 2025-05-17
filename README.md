@@ -1,2 +1,54 @@
-# UNIVESP_PI
-Sistema web para gestão da produção, cadastro de ordens de serviço e acompanhamento de conformidade NR12.
+# Green Manufacturing: Digitalização e Automação de Processos Documentais
+
+<p align="center">
+<a href="https://www.univesp.br/"><img src="https://www.univesp.br/static/images/logoUnivesp2020.png" alt="UNIVESP - Universidade Virtual do Estado de São Paulo" border="0" width=40%></a>
+</p>
+
+## 👥 Integrantes
+- [Amanda Fragnan de Oliveira](https://www.linkedin.com/in/amanda-fragnan-b61537255/)
+- André Cicero Nunes Silva
+- Juares da Silva de Jesus
+- Riane Miranda de Franca
+- Adrian Eduard Justo Sillex Zimmermann
+- Robson Cruz
+- Vitor Gabriel da Cruz
+- Diego Aparecido Leite de Faria
+
+## 👩‍🏫 Orientação
+- **Tutora:** Laura Parisi
+- **Polo:** Itapecerica da Serra/Juquitiba
+
+## 📜 Descrição
+
+### 🎯 Objetivo
+Desenvolvimento de um sistema web com banco de dados para digitalização e automação de processos documentais na empresa **BORKAR Acessórios Automotivos Originais**, visando:
+- Eliminar formulários físicos
+- Reduzir em 60% as não conformidades documentais
+- Promover práticas sustentáveis (Green Manufacturing)
+
+### 🔍 Problema Identificado
+- 60% das não conformidades (2º sem/2024) relacionadas a falhas no fluxo documental
+- Processos 100% manuais com:
+  - Alto consumo de papel/tinta
+  - Erros de preenchimento
+  - Dificuldade de recuperação de documentos
+  - Riscos em auditorias
+
+## ⚙️ Arquitetura da Solução
+
+### 🛠️ Tecnologias
+| Componente       | Tecnologia          |
+|------------------|---------------------|
+| Front-end        | HTML5, CSS          |
+| Back-end         | PHP                 |
+| Banco de Dados   | MySQL               |
+| Ambiente         | XAMPP               |
+| Versionamento    | GitHub              |
+
+### 📊 Fluxograma do Sistema
+```mermaid
+graph TD
+    A[Operador] -->|Preenche formulário digital| B[Validação Automática]
+    B --> C[Armazenamento no BD]
+    C --> D[PCP: Análise/Aprovação]
+    D --> E[Histórico em Nuvem]
