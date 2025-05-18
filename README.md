@@ -5,14 +5,14 @@
 </p>
 
 ## 👥 Integrantes
+- Adrian Eduard Justo Sillex Zimmermann
 - Amanda Fragnan de Oliveira
 - André Cicero Nunes Silva
+- Diego Aparecido Leite de Faria
 - Juares da Silva de Jesus
 - Riane Miranda de Franca
-- Adrian Eduard Justo Sillex Zimmermann
 - Robson Cruz
 - Vitor Gabriel da Cruz
-- Diego Aparecido Leite de Faria
 
 ## 👩‍🏫 Orientação
 - **Tutora:** Laura Parisi
